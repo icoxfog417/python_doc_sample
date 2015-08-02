@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'sphinx_test'
+project = 'python_doc_sample'
 copyright = '2015, icoxfog417'
 author = 'icoxfog417'
 
@@ -268,7 +268,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   (master_doc, 'sphinx_test', 'sphinx_test Documentation',
-   author, 'sphinx_test', 'One line description of project.',
+   author, 'python doc sample', 'One line description of project.',
    'Miscellaneous'),
 ]
 

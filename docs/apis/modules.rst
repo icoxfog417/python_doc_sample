@@ -1,7 +1,7 @@
-project_doc_sample
-==================
+python_doc_sample
+=================
 
 .. toctree::
    :maxdepth: 4
 
-   project_doc_sample
+   python_doc_sample
